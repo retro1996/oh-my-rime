@@ -15,7 +15,6 @@ schema:
     - Mintimate
   description: |
     薄荷拼音 - 智能 ABC 双拼
-    词库基于[雾凇拼音](https://github.com/iDvel/rime-ice)
   dependencies:
     - melt_eng        # 英文输入，作为次翻译器挂载到拼音方案
     - radical_pinyin  # 部件拆字，反查及辅码（如果需要把按键映射
